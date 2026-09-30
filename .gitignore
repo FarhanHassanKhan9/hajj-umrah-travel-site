@@ -1,0 +1,7 @@
+livekit-voice-agent/.venv/
+Royal-Journey-Business-Info-Form.docx
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
